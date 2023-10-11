@@ -10,5 +10,5 @@ Is a simple Flutter application that demonstrates changing background color, sho
 
 ## Screenshots
 
-[!Start screen<img src="screenshots/none.png" width="360" height="780">] [!1 tap on screen<img src="screenshots/android_icon.png" width="360" height="780">]
+[!Start screen<img src="screenshots/none.png" width="360" height="780">]; <img src="screenshots/android_icon.png" alt="1 tap on screen" width="360" height="780">
 <img src="screenshots/dont_touch_me.png" width="360" height="780"><img src="screenshots/change_clr.png" width="360" height="780">
