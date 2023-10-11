@@ -10,4 +10,4 @@ Is a simple Flutter application that demonstrates changing background color, sho
 
 ## Screenshots
 
-[![Backgound change app Screenshots]<img src="screenshots/none.png" width="360" height="780">][![Backgound change app Screenshots]<img src="screenshots/android_icon.png" width="360" height="780">][![Backgound change app Screenshots]<img src="screenshots/dont_touch_me.png" width="360" height="780">]<img src="screenshots/change_clr.png" width="360" height="780">
+<img src="screenshots/none.png" width="360" height="780"><img src="screenshots/android_icon.png" width="360" height="780"><img src="screenshots/dont_touch_me.png" width="360" height="780"><img src="screenshots/change_clr.png" width="360" height="780">
