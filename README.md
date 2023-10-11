@@ -1,4 +1,4 @@
-# MyApp Flutter App
+# Mini Flutter App
 
 Is a simple Flutter application that demonstrates changing background color, showing/hiding an Android icon, and displaying a popup message.
 
